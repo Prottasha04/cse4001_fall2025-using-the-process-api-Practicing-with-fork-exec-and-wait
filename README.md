@@ -1,3 +1,4 @@
+TEST
 # Assignment: Practicing the Process API
 Practicing with fork, exec, wait. 
 
